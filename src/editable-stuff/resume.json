@@ -1,0 +1,26 @@
+{
+    "education": [
+        {
+          "institution": "University of Washington",
+          "area": "Master of Science in Computer Science",
+          "startDate": "2019-09-15",
+          "endDate": "2020-12-15"
+        },
+        {
+            "institution": "Taiyuan University of Technology",
+            "area": "Bachelor of Engineering in Computer Engineering",
+            "startDate": "2015-09-01",
+            "endDate": "2019-07-01"
+        }
+      ],
+      
+      "work":[
+          {
+            "company": "Amazon Web Services",
+            "position": "Software developing engineer Intern",
+            "website": "https://aws.amazon.com",
+            "startDate": "2020-06-15",
+            "endDate": ""
+          }
+      ]
+}

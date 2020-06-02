@@ -1,0 +1,45 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "daylight",
+  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+  "FirstName": "Yankun",
+  "MiddleName": "",
+  "LastName": "Shen",
+  "devDesc": "| Graduate Student | Engineer | Programmer | Web Developer | Photographer | Travler |",
+  "icons": [
+    {
+      "id": 0,
+      "image": "fa-github",
+      "url": "https://github.com/YankunShen",
+      "style": "socialicons"
+    },
+    {
+      "id": 2,
+      "image": "fa-instagram",
+      "url": "https://www.instagram.com/olivershenyankun/",
+      "style": "socialicons"
+    },
+    {
+      "id": 3,
+      "image": "fa-linkedin",
+      "url": "http://linkedin.com/in/yankun-shen-87bb0018b",
+      "style": "socialicons"
+    },
+    {
+      "id": 4,
+      "image": "fa-twitter",
+      "url": "https://twitter.com/YankunShen",
+      "style": "socialicons"
+    }
+  ],
+  "aboutHeading": "About Me",
+  "showInstaProfilePic": true,
+  "aboutDescription": "Hello there, welcome to my portfolio.  Currently, I am a graduate student at University of Washington looking for Software Engineering full time opportunities. Right now, I am doing research in NLP group",
+  "projectHeading": "Recent Projects",
+  "gitHubLink": "https://api.github.com/users/",
+  "gitHubUsername": "YankunShen",
+  "gitHubQuerry": "/repos?sort=updated&direction=desc",
+  "projectsLength": 8,
+  "showNavigationbar": true,
+  "showBlog": false
+}
