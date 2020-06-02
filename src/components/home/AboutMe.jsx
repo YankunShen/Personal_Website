@@ -21,7 +21,7 @@ const AboutMe = () => {
             <div className="col-5 d-none d-lg-block align-self-center">
               <img
                 className="border border-secondary rounded-circle"
-                src="./University_of_Washington_Block_W_logo_RGB_brand_colors.SVG.png"
+                src="public/University_of_Washington_Block_W_logo_RGB_brand_colors.SVG.png"
                 alt="profilepicture"
               />
             </div>
