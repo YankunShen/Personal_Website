@@ -21,7 +21,7 @@ const AboutMe = () => {
             <div className="col-5 d-none d-lg-block align-self-center">
               <img
                 className="border border-secondary rounded-circle"
-                src="public/University_of_Washington_Block_W_logo_RGB_brand_colors.SVG.png"
+                src="../uw.png"
                 alt="profilepicture"
               />
             </div>
@@ -43,6 +43,18 @@ const AboutMe = () => {
                 </a>
               </p>
             )}
+            <p className="lead text-center">
+                <a
+                  className="btn btn-outline-dark btn-lg"
+                  href="mailto:yankun@uw.edu"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                  role="button"
+                  aria-label="email"
+                >
+                  Contact
+                </a>
+              </p>
           </div>
         </div>
       </div>

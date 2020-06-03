@@ -33,7 +33,7 @@
     }
   ],
   "aboutHeading": "About Me",
-  "showInstaProfilePic": true,
+  "showInstaProfilePic": false,
   "aboutDescription": "Hello there, welcome to my portfolio.  Currently, I am a graduate student at University of Washington looking for Software Engineering full time opportunities. Right now, I am doing research in NLP group",
   "projectHeading": "Recent Projects",
   "gitHubLink": "https://api.github.com/users/",
